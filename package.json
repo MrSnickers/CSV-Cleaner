@@ -1,0 +1,24 @@
+{
+  "name": "Cleaner",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Sterling <lazarus_star@hotmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "start": "babel-node src",
+    "test": "eslint src && jest --coverage"
+  },
+  "dependencies": {
+    "csv": "^1.1.1"
+  },
+  "devDependencies": {
+    "babel-cli": "^6.26.0",
+    "babel-preset-env": "^1.6.0",
+    "eslint": "^4.5.0",
+    "eslint-config-airbnb": "^15.1.0",
+    "eslint-plugin-import": "^2.7.0",
+    "eslint-plugin-jsx-a11y": "^5.1.1",
+    "eslint-plugin-react": "^7.1.0",
+    "jest": "^21.0.1"
+  }
+}
