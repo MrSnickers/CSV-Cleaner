@@ -8,14 +8,14 @@ These instructions will get you a copy of the project up and running on your loc
 
 ### Prerequisites
 
-You will need to install [`node`] (https://nodejs.org/en/download/) and [`yarn`] (https://yarnpkg.com/lang/en/docs/install/) on your local machine to run this cleaner.
+You will need to install [`node`](https://nodejs.org/en/download/) and [`yarn`](https://yarnpkg.com/lang/en/docs/install/) on your local machine to run this cleaner.
 
 
 ### Installing
 
 A step by step series of examples that tell you have to get a development env running
 
-First you will need to clone [the repo] (https://github.com/MrSnickers/CSV-Cleaner) here to your local computer.
+First you will need to clone [the repo](https://github.com/MrSnickers/CSV-Cleaner) here to your local computer.
 ```
 git clone https://github.com/MrSnickers/CSV-Cleaner.git
 ```
